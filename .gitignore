@@ -1,0 +1,4 @@
+log/emperor.log
+log/uwsgi.log
+__pycache__/
+*.pyc
